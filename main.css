@@ -586,7 +586,7 @@ form
 
 @media screen and (max-width: 768px){
 	body {
-	background: url("sitebg2Gray.jpg") no-repeat center fixed;
+	background: url("https://raw.githubusercontent.com/marzeeshan/marzeeshan.github.io/master/sitebg2Gray.jpg") no-repeat center fixed;
 	background-size: cover;
 	}
 
